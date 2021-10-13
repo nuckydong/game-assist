@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         try {
-            SimpleRobot.auto_play(100, SimpleRobot.YE_YE_TIME_COST, SimpleRobot.Mode.DOUBLE);
+            SimpleRobot.auto_play(30, SimpleRobot.BEN_BEN_BEN_PAO_TIME_COST, SimpleRobot.Mode.OWNER);
         } catch (Exception e) {
             e.printStackTrace();
         }

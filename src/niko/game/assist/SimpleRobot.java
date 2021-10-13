@@ -108,7 +108,7 @@ public class SimpleRobot {
 	public final static int BEN_BEN_BEN_PAO_TIME_COST = 28;
 	public final static int MEI_LUO_FENG_TIME_COST = 40;
 	public final static int YE_YE_TIME_COST = 45;
-	public final static int YE_YE_SELF_YU_LIN = 45;
+	public final static int YE_YE_SELF_YU_LIN = 30;
 	public final static int HONG_ZHA_ZHE_TIME_COST = 26;
 	public final static int SELF_YU_LIN = 60;
 
